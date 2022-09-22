@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-faq-accordion-card)
-- Live Site URL: [Live site URL here](https://fm-faq-accordion-card-eosin.vercel.app/)
+- Solution URL: [Solution URL here]((https://github.com/ArteiusWorkshop/FM-expenses-chart-component-main)
+- Live Site URL: [Live site URL here](https://fm-expenses-chart-component-main-five.vercel.app//)
 
 ## My process
 
