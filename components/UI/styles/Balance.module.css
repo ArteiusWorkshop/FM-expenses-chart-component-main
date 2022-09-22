@@ -1,0 +1,37 @@
+.header {
+  color: white;
+  background-color: var(--soft-red);
+  justify-content: space-between;
+}
+
+.text {
+  text-align: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+.logo {
+  padding-right: 20px;
+}
+
+.logo,
+.header {
+  display: flex;
+}
+
+@media only screen and (max-width: 425px) {
+  .header {
+    width: 90%;
+    height: 98px;
+    border-radius: 10px;
+  }
+}
+@media only screen and (min-width: 426px) {
+  .header {
+    width: 540px;
+    height: 128px;
+    border-radius: 20px;
+  }
+}
